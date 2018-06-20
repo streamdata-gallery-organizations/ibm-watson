@@ -7,10 +7,10 @@ description: Meet IBM Watson, a cognitive system that enables a new partnership 
   industries.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-watson-logo.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: IBM Watson
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/ibm-watson/master/_listings/ibm-watson/apis.md
 specificationVersion: "0.14"
 apis:
